@@ -27,7 +27,7 @@ html, body {
 
 @media only screen and (min-width: 1000px) {
   .content {
-    width: 50%;
+    width: 40%;
     padding: 2rem;
     text-align: right;
   }
@@ -55,9 +55,13 @@ li {
 }
 
 .link-list {
-  margin-left: -2rem;
   text-align: left;
   list-style: none;
   margin-bottom: 4rem;
+}
+
+.list-link {
+  text-align: left;
+  margin-left: -3rem;
 }
 
